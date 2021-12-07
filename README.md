@@ -7,9 +7,11 @@ General Info
  Enemy Team's Key: 3soranastefema3
 
 Solution Description
+
 	Subtask1
 		Since we have access to both the decripted (input) and encripted (output) files, we can simply apply a XOR operation to the content
 		of the 2 files, resulting in a file containing the password over and over and over again. (found in "/Cerinta1/XorResult.txt")
+		
 	Subtask 2
 		For this subtask, we need to find the password while only using the encripted (output) file. We solved this using a 5-step solution.
 		
