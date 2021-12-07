@@ -2,9 +2,13 @@
  Decripting the XOR cypher used by the team theTrio
 
 General Info
+
  Team Name: Dix
+ 
  Enemy Team Name: theTrio
+ 
  Enemy Team's Key: 3soranastefema3
+ 
 
 Solution Description
 
