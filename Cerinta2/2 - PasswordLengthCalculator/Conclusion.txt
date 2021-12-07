@@ -1,0 +1,6 @@
+In a large text, it is highly probable that the same 3 letters end up encoded with the same 3 letters of the password multiple times.
+
+Starting from this premise, we check how often each set of 3 adjacent characters shows up in the encrypted file, since it's extremely likely that the vast majority
+of the distances will be multiples of the password's length.
+
+From the results, we can tell that the password is highly likely to be 15 characters long.
